@@ -1,0 +1,7 @@
+C:\Users\3.D\source\repos\kostroEugenVjezbePetlje\kostroEugenVjezbePetlje\obj\Debug\kostroEugenVjezbePetlje.csprojAssemblyReference.cache
+C:\Users\3.D\source\repos\kostroEugenVjezbePetlje\kostroEugenVjezbePetlje\obj\Debug\kostroEugenVjezbePetlje.csproj.CoreCompileInputs.cache
+C:\Users\3.D\source\repos\kostroEugenVjezbePetlje\kostroEugenVjezbePetlje\bin\Debug\kostroEugenVjezbePetlje.exe.config
+C:\Users\3.D\source\repos\kostroEugenVjezbePetlje\kostroEugenVjezbePetlje\bin\Debug\kostroEugenVjezbePetlje.exe
+C:\Users\3.D\source\repos\kostroEugenVjezbePetlje\kostroEugenVjezbePetlje\bin\Debug\kostroEugenVjezbePetlje.pdb
+C:\Users\3.D\source\repos\kostroEugenVjezbePetlje\kostroEugenVjezbePetlje\obj\Debug\kostroEugenVjezbePetlje.exe
+C:\Users\3.D\source\repos\kostroEugenVjezbePetlje\kostroEugenVjezbePetlje\obj\Debug\kostroEugenVjezbePetlje.pdb
